@@ -1,2 +1,2 @@
-# Primeiro_Desafio_Git/GitHub_Dio
+# primeiro_desafio_git/github_dio
 Dio projeto Git/Github
